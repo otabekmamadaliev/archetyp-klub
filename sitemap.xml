@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://otabekmamadaliev.github.io/archetyp-klub/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://otabekmamadaliev.github.io/archetyp-klub/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://otabekmamadaliev.github.io/archetyp-klub/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://otabekmamadaliev.github.io/archetyp-klub/en/"/>
+  </url>
+  <url>
+    <loc>https://otabekmamadaliev.github.io/archetyp-klub/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://otabekmamadaliev.github.io/archetyp-klub/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://otabekmamadaliev.github.io/archetyp-klub/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://otabekmamadaliev.github.io/archetyp-klub/en/"/>
+  </url>
+  <url>
+    <loc>https://otabekmamadaliev.github.io/archetyp-klub/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://otabekmamadaliev.github.io/archetyp-klub/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://otabekmamadaliev.github.io/archetyp-klub/uk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://otabekmamadaliev.github.io/archetyp-klub/en/"/>
+  </url>
+</urlset>
